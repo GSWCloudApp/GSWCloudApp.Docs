@@ -1,0 +1,57 @@
+{
+  "permalink": "/blog/first-blog-post",
+  "source": "@site/blog/2019-05-28-first-blog-post.md",
+  "title": "First Blog Post",
+  "description": "Lorem ipsum dolor sit amet...",
+  "date": "2019-05-28T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Hola",
+      "permalink": "/blog/tags/hola",
+      "description": "Hola tag description"
+    },
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 0.135,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Angelo Pirola",
+      "title": ".NET Maintainer",
+      "url": "https://angelo.aepserver.it/",
+      "page": {
+        "permalink": "/blog/authors/all-angelo-pirola-articles"
+      },
+      "socials": {
+        "devto": "angelodotnet",
+        "linkedin": "https://www.linkedin.com/in/pirolaangelo/",
+        "github": "https://github.com/angelodotnet",
+        "x": "https://x.com/angeloit87"
+      },
+      "imageURL": "https://github.com/angelodotnet.png",
+      "key": "apirola"
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "First Blog Post",
+    "authors": [
+      "apirola"
+    ],
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "permalink": "/blog/long-blog-post",
+  "source": "@site/blog/2025-03-19-long-blog-post.md",
+  "title": "Long Blog Post",
+  "description": "This is the summary of a very long blog post,",
+  "date": "2025-03-19T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Hello",
+      "permalink": "/blog/tags/hello",
+      "description": "Hello tag description"
+    },
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 2.06,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Angelo Pirola",
+      "title": ".NET Maintainer",
+      "url": "https://angelo.aepserver.it/",
+      "page": {
+        "permalink": "/blog/authors/all-angelo-pirola-articles"
+      },
+      "socials": {
+        "devto": "angelodotnet",
+        "linkedin": "https://www.linkedin.com/in/pirolaangelo/",
+        "github": "https://github.com/angelodotnet",
+        "x": "https://x.com/angeloit87"
+      },
+      "imageURL": "https://github.com/angelodotnet.png",
+      "key": "apirola"
+    }
+  ],
+  "frontMatter": {
+    "slug": "long-blog-post",
+    "title": "Long Blog Post",
+    "authors": "apirola",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/mdx-blog-post",
+  "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+  "title": "MDX Blog Post",
+  "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+  "date": "2021-08-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 0.235,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Angelo Pirola",
+      "title": ".NET Maintainer",
+      "url": "https://angelo.aepserver.it/",
+      "page": {
+        "permalink": "/blog/authors/all-angelo-pirola-articles"
+      },
+      "socials": {
+        "devto": "angelodotnet",
+        "linkedin": "https://www.linkedin.com/in/pirolaangelo/",
+        "github": "https://github.com/angelodotnet",
+        "x": "https://x.com/angeloit87"
+      },
+      "imageURL": "https://github.com/angelodotnet.png",
+      "key": "apirola"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "MDX Blog Post",
+    "authors": [
+      "apirola"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  },
+  "nextItem": {
+    "title": "First Blog Post",
+    "permalink": "/blog/first-blog-post"
+  }
+}
